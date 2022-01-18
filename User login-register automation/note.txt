@@ -1,0 +1,3 @@
+-SQL bağlantısı olduğu için,bağlantı yolunu kendi bilgisayarınızdaki yere göre ayarlamalısınız.
+
+-Since it is a SQL connection, you must set the path of the connection file to the location on your own computer.
